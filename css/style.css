@@ -26,6 +26,7 @@ main{
     max-width: 800px;
     margin: auto;
     background-color: white;
+    border-radius: 8px;
 }
 
 nav, section{
@@ -33,9 +34,9 @@ nav, section{
 }
 
 nav button{
-    margin-top: 20px;
+    margin-top: 15px;
     margin-bottom: 10px;
-    border-radius: 4px;
+    border-radius: 6px;
 }
 
 .add-task{
@@ -55,8 +56,8 @@ nav button{
 }
 
 hr{
-    background-color: rgb(229, 231, 232);
-    height: 1px;
+    background-color: rgb(246, 247, 247);
+    height: 2px;
     border: 0;
 }
 
