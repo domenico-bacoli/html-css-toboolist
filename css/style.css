@@ -26,6 +26,9 @@ main{
     max-width: 800px;
     margin: auto;
     background-color: white;
+}
+
+nav, section{
     padding-left: 60px;
 }
 
@@ -52,7 +55,7 @@ nav button{
 }
 
 hr{
-    background-color: rgb(246, 248, 249);
+    background-color: rgb(229, 231, 232);
     height: 1px;
     border: 0;
 }
@@ -72,8 +75,6 @@ hr{
 #todo-list h2{
     margin-bottom: 10px;
 }
-
-
 
 .todo{
     font-size: 18px;
