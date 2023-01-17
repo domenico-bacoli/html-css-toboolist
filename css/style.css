@@ -12,6 +12,7 @@ body{
 header{
     padding: 10px 20px;
     background-color: white;
+    margin-bottom: 30px;
 }
 
 header h1{
@@ -19,5 +20,40 @@ header h1{
     line-height: 62px;
     vertical-align: bottom;
     font-size: 42px;
+}
+
+main{
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 10px
+}
+
+.add-task{
+    height: 30px;
+    width: 90px;
+    border-radius: 4px;
+    background-color: rgb(67, 173, 239);
+    color: white;
+    border: none;
+}
+
+.add-section{
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    color: rgb(211, 212, 212);
+    border: 1px solid  rgb(211, 212, 212);
+    border-radius: 4px;
+}
+
+hr{
+    background-color: rgb(246, 248, 249);
+    height: 1px;
+    border: 0;
 }
 
