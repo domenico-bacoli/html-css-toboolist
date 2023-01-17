@@ -72,7 +72,7 @@ hr{
     list-style-type: none;
 }
 
-#todo-list h2{
+.todo-type h2{
     margin-bottom: 10px;
 }
 
