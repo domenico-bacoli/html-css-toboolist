@@ -61,11 +61,11 @@ hr{
 }
 
 #todo-list {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .todo-type{
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 
 #todo-list ul{
@@ -79,6 +79,23 @@ hr{
 .todo{
     font-size: 18px;
     margin-bottom: 20px;
+}
+
+.check{
+    font-size: 12px;
+    padding: 2px 4px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.done{
+    color: rgb(97, 192, 170);
+    border: 1px solid rgb(97, 192, 170);
+}
+
+.not-done{
+    color: red;
+    border: 1px solid red;
 }
 
 .todo-category{
